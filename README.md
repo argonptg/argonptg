@@ -1,22 +1,9 @@
-<h1 align="center">Hi 👋, I'm Brisolo32</h1>
-<h3 align="center">A developer from Brazil thad does random projects</h3>
-<br>
+# Brisolo32
 
-- 🌱 I’m currently learning **Javascript**
+- i'm currently learning **Dart and V**
+- twitter: [@brisoli2](https://twitter.com/brisoli2)
+- discord: Brisolo32#2968
 
-- 👯 I’m looking to collaborate on **python and javascript projects**
-
-- 👨‍💻 All of my projects are available at [https://brisolo32.github.io/](https://brisolo32.github.io/)
-
-- 📫 How to reach me **Brisolo32#2968** on Discord
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/brisoli2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brisoli2" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCsB6SfEv9Kb9f9Qjh6XyciA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="brisolo32" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
 	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
